@@ -1,0 +1,15 @@
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WebmDownloaderLite.exe.config
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WebmDownloaderLite.exe
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\WebmDownloaderLite.pdb
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csprojResolveAssemblyReference.cache
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.baml
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\MainWindow.g.cs
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\App.g.cs
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WebmDownloaderLite_MarkupCompile.cache
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WebmDownloaderLite.g.resources
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WpfApplication1.csproj.GenerateResource.Cache
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WebmDownloaderLite.exe
+c:\users\hotkeym\documents\visual studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Debug\WebmDownloaderLite.pdb
