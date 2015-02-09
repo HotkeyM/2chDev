@@ -1,0 +1,15 @@
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\bin\Debug\WebmDownloaderLite.exe.config
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Debug\WebmDownloaderLite.exe
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Debug\WebmDownloaderLite.pdb
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\bin\Debug\WebmDownloaderLite.exe
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\bin\Debug\WebmDownloaderLite.pdb
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Debug\WebmDownloaderLite_MarkupCompile.cache
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Debug\WebmDownloaderLite.g.resources
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Debug\WebmDownloaderLite.csproj.GenerateResource.Cache
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Debug\WebmDownloaderLite.csprojResolveAssemblyReference.cache

@@ -12,3 +12,18 @@ C:\Users\HotkeyM\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplic
 C:\Users\HotkeyM\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Release\WebmDownloaderLite.csproj.GenerateResource.Cache
 C:\Users\HotkeyM\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Release\WebmDownloaderLite.exe
 C:\Users\HotkeyM\Documents\Visual Studio 2012\Projects\WpfApplication1\WpfApplication1\obj\Release\WebmDownloaderLite.pdb
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\bin\Release\WebmDownloaderLite.exe.config
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Release\WebmDownloaderLite.exe
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Release\WebmDownloaderLite.pdb
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\bin\Release\WebmDownloaderLite.exe
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\bin\Release\WebmDownloaderLite.pdb
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\bin\Release\Newtonsoft.Json.dll
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\bin\Release\Newtonsoft.Json.xml
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Release\WebmDownloaderLite.csprojResolveAssemblyReference.cache
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Release\MainWindow.baml
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Release\MainWindow.g.cs
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Release\App.g.cs
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Release\WebmDownloaderLite_MarkupCompile.cache
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Release\WebmDownloaderLite.g.resources
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\HotkeyM\Documents\GitHub\2chDev\WebmDownloaderLite\WpfApplication1\obj\Release\WebmDownloaderLite.csproj.GenerateResource.Cache
